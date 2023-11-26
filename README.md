@@ -1,4 +1,4 @@
-# Guide
+# Implementation
 
 1. Go to the Snapp website and move to code page.
 2. Right-click anywhere on the webpage and choose "Inspect."
